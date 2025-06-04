@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+date: Wed, 04 Jun 2025 05:39:52 GMT
+server: envoy
+
+HTTP/1.1 302 Found
+date: Wed, 04 Jun 2025 05:39:53 GMT
+server: envoy
+cache-control: no-cache, private
+set-cookie: XSRF-TOKEN=eyJpdiI6IlhaWGdrVmhCZWliZmxSNDlHN1MrdFE9PSIsInZhbHVlIjoiWGNUU0hpd0ZaKzdZUmlrK3J1Y0krQS95UGhYU1hmN2xWS3Y2TGJ2YWtTdVo5RWxUN05YNVpYSW5oRDNyOWZMenUxTXN3OTNJYkxUd2t3M2srUkdkR0NqYVA1VnRkUjNhWFRpNlY0bHZNZHRUUElnNU5GYUxaU1ZnQm1HRUNwTXAiLCJtYWMiOiI0NzQ3ZWY4MTM4NzA0N2Q3M2MwOTNkMThmNjQ3MjZlNjE3OGE1ZTgwZjI5ZDE0ZGNhN2FhNjgxZDFiMzY1OWU3IiwidGFnIjoiIn0%3D; expires=Wed, 04 Jun 2025 07:39:53 GMT; Max-Age=7200; path=/; secure; samesite=lax
+set-cookie: flight_class_session=eyJpdiI6Img4ZUFUenptR1A5NzNrRHB1a1FCUXc9PSIsInZhbHVlIjoiVFFRWVdXaUdwS3Q0YmVySFFYdi9ycHk0Q3NoQXdmUXFjWVZEeW5nazlzc1J0OWpqN2NvNDZtcWxwbFRYS2N6ZkxIN0N4Vm9jdkdXY0xRMWtmRFFtTGhDZUwzRjA0Q1dwZ1ZqOGJVS2VsWlF3c1BCcVdaUlhXaFo0SXVsZ1Q1enYiLCJtYWMiOiI0MTE0Y2M0MWY4ZmI1NDA4OWRmMzdiNDUzNjJhZTZlYjQ2ODRlNDJlYjQyNDIzMmZjYTEyMDMxYTgxMjcyOWIwIiwidGFnIjoiIn0%3D; expires=Wed, 04 Jun 2025 07:39:53 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+location: https://app.flightclass.com.br
+content-type: text/html; charset=utf-8
+x-envoy-upstream-service-time: 461
+transfer-encoding: chunked
+

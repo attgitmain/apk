@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Wed Jun  4 05:39:27 2025 as: nmap -Pn -sV -p 1-1000 -oN nmap_scan.txt api.flightclass.com.br
+setup_target: failed to determine route to api.flightclass.com.br (18.230.148.218)
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Wed Jun  4 05:39:27 2025 -- 0 IP addresses (0 hosts up) scanned in 0.64 seconds
